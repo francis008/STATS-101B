@@ -12,7 +12,7 @@ This project, conducted for my STATS 101B class at UCLA, explores the intriguing
   - Independent Variable: Type of music (No Music, Classical, Pop)
   - Dependent Variable: Time taken to solve the puzzle
 
-# #Methodology
+## Methodology
 
 A rigorous statistical analysis was employed to assess the impact of music on puzzle-solving efficiency. The study likely utilized t-tests or ANOVA to compare the average solving times across the different music conditions, evaluating whether any observed differences were statistically significant.
 
